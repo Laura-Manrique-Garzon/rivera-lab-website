@@ -1,17 +1,14 @@
 # site properties and page defaults
-title: Laura-Manrique-Garzon Lab
-subtitle: 
-description: We study how the pollination interactions change through time and space, and what is the role of the microbiome within this processes.
+title: Rivera Lab
+subtitle: at Example University
+description: The Rivera Lab studies how reproducible workflows speed up ecological research.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: lmm7882@psu.edu
-  orcid: 0009-0004-4671-6968
-  github: Laura-Manrique-Garzon
-  twitter: Laura_Manrique2
+  email: contact@example.com
 
 ### jekyll settings
 
