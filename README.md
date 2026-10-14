@@ -5,6 +5,6 @@
 
   # Laura-Manrique-Garzon's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[laura-manrique-garzon.github.io/rivera-lab-website](https://laura-manrique-garzon.github.io/rivera-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
