@@ -3,7 +3,7 @@
 
 # Laura-Manrique-Garzon's Website
 
-An engaging 1-3 sentence description of your lab.
+We study how pollination interactions change over time and space, and what role the microbiome plays in these processes.
 
 {% include section.html %}
 
