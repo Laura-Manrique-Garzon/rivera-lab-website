@@ -1,9 +1,9 @@
 ---
 ---
 
-# Laura-Manrique-Garzon's Website
+# Rivera Lab
 
-We study how pollination interactions change over time and space, and what role the microbiome plays in these processes.
+We study how reproducible workflows speed up ecological research.
 
 {% include section.html %}
 
